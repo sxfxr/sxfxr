@@ -16,7 +16,7 @@ and software development.
 - 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
 - 🐍 Working primarily with Python and data-driven applications
 - 📊 Interested in Machine Learning, Data Analysis and Visualization
-- 🌱 Currently improving my ML, DSA and software development skills
+- 🌱 Currently strengthening Data Structures & Algorithms, OOP, Machine Learning and software development skills
 
 ---
 
@@ -75,5 +75,4 @@ habitability through a 3D web interface.
 
 ### 🎯 Currently
 
-Building practical AI/ML projects and strengthening my problem-solving
-and software development skills.
+Building practical software and AI/ML projects while strengthening Data Structures, Algorithms, OOP and problem-solving skills.
