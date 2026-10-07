@@ -68,8 +68,8 @@ habitability through a 3D web interface.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL here
-- GitHub: @sxfxr
+- [LinkedIn](https://www.linkedin.com/in/mohammed-safar-3710771b8/)
+- [GitHub](https://github.com/sxfxr)
 
 ---
 
