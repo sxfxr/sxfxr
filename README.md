@@ -58,12 +58,13 @@ Machine learning email spam classifier using **Random Forest and Logistic Regres
 
 ---
 
-### 🪐 Habitable Planet Database
+### 🌌 [Habitable Planet System](https://github.com/sxfxr/Habitable-Planet-System)
 
-Interactive application for exploring stars, solar systems and planetary
-habitability through a 3D web interface.
+Full-stack web application for exploring stars, planetary systems and simplified planet habitability through an interactive **3D visualization**.
 
-`JavaScript` `Three.js` `REST API`
+Built with a **Three.js frontend**, **Node.js/Express REST API**, **PostgreSQL database**, and **JWT-based authentication** with researcher and viewer roles.
+
+`JavaScript` `Three.js` `Node.js` `Express.js` `PostgreSQL` `JWT`
 
 ---
 
