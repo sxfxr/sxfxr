@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Mohammed Safar 👋
 
-<!--
-**sxfxr/sxfxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | AI/ML & Data Science
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science Engineering student at RSET with a strong interest in
+Artificial Intelligence, Machine Learning and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects involving machine learning, data analysis,
+and software development.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering student at RSET
+- 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
+- 🐍 Working primarily with Python and data-driven applications
+- 📊 Interested in Machine Learning, Data Analysis and Visualization
+- 🌱 Currently improving my ML, DSA and software development skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+Python • C • Java • SQL
+
+**Machine Learning & Data**
+
+Pandas • NumPy • Scikit-learn • Matplotlib • Plotly
+
+**Tools**
+
+Git • GitHub • Jupyter Notebook • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🔋 Battery State-of-Health Prediction
+
+Machine learning implementation for lithium-ion battery State-of-Health
+estimation using Incremental Capacity Analysis, PCA and Gaussian Process
+Regression.
+
+`Python` `Scikit-learn` `Pandas` `PCA` `GPR`
+
+---
+
+### 📧 Email Spam Detection
+
+End-to-end machine learning system for classifying emails using TF-IDF
+feature extraction and Multinomial Naive Bayes.
+
+`Python` `Machine Learning` `NLP` `Scikit-learn`
+
+---
+
+### 🪐 Habitable Planet Database
+
+Interactive application for exploring stars, solar systems and planetary
+habitability through a 3D web interface.
+
+`JavaScript` `Three.js` `REST API`
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn URL here
+- GitHub: @sxfxr
+
+---
+
+### 🎯 Currently
+
+Building practical AI/ML projects and strengthening my problem-solving
+and software development skills.
