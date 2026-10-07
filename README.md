@@ -48,14 +48,13 @@ Regression.
 
 ---
 
-### 📧 Email Spam Detection
+### 📧 [Gmail Spam Detection](https://github.com/sxfxr/Gmail-Spam-Detection)
 
-End-to-end machine learning system for classifying emails using TF-IDF
-feature extraction and Multinomial Naive Bayes.
+Machine learning email spam classifier using **Random Forest and Logistic Regression**, trained on the UCI Spambase dataset and integrated with the **Gmail API using OAuth 2.0** for live inbox classification.
 
-`Python` `Machine Learning` `NLP` `Scikit-learn`
+**Best Model:** Random Forest — **94.68% Accuracy | 93.11% Spam F1 Score**
 
----
+`Python` `Scikit-learn` `Random Forest` `Gmail API` `OAuth 2.0`
 
 ### 🪐 Habitable Planet Database
 
