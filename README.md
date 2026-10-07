@@ -38,7 +38,7 @@ Git • GitHub • Jupyter Notebook • VS Code
 
 ## 🚀 Featured Projects
 
-### 🔋 Battery State-of-Health Prediction
+### 🔋 [Battery State-of-Health Prediction](https://github.com/sxfxr/Battery-SOH-Prediction)
 
 Machine learning implementation for lithium-ion battery State-of-Health
 estimation using Incremental Capacity Analysis, PCA and Gaussian Process
