@@ -56,6 +56,8 @@ Machine learning email spam classifier using **Random Forest and Logistic Regres
 
 `Python` `Scikit-learn` `Random Forest` `Gmail API` `OAuth 2.0`
 
+---
+
 ### 🪐 Habitable Planet Database
 
 Interactive application for exploring stars, solar systems and planetary
